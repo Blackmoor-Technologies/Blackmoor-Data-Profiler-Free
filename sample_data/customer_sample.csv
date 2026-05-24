@@ -1,0 +1,11 @@
+customer_id,customer_name,email,signup_date,region,status,total_spend
+1001,Avery Stone,avery.stone@example.com,2024-01-15,West,Active,245.50
+1002,Jordan Lee,jordan.lee@example.com,2024-02-03,East,Active,520.00
+1003,Morgan Reed,,2024-02-17,South,Inactive,0.00
+1004,Taylor Brooks,taylor.brooks@example.com,2024-03-01,West,Active,89.99
+1005,Casey Nguyen,casey.nguyen@example.com,,North,Active,134.25
+1006,Riley Carter,riley.carter@example.com,2024-03-22,East,Active,780.40
+1007,Sam Patel,sam.patel@example.com,2024-04-04,South,Inactive,42.00
+1008,Jamie Kim,jamie.kim@example.com,2024-04-19,West,Active,310.10
+1009,Drew Morgan,drew.morgan@example.com,2024-05-02,North,Active,615.75
+1010,Alex Rivera,alex.rivera@example.com,2024-05-16,East,Active,198.30
