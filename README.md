@@ -14,7 +14,19 @@ For the Free Edition scope and future Pro feature candidates, see [PRODUCT_BOUND
 
 ## Feedback
 
-Feedback welcome: open a GitHub Issue.
+Blackmoor Data Profiler Free Edition is an early local-first tool.
+
+Feedback is welcome, especially around:
+
+- setup and installation clarity
+- CSV/Excel profiling usefulness
+- data quality finding clarity
+- Markdown report usefulness
+- feature ideas for future Pro capabilities
+
+Please open a GitHub Issue for bugs, confusing behavior, or feature ideas:
+
+[Open a GitHub Issue](https://github.com/Blackmoor-Technologies/Blackmoor-Data-Profiler-Free/issues)
 
 ## Current Features
 
